@@ -1,0 +1,20 @@
+{
+  "name": "watch-mode-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/node-watch-mode-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/node-watch-mode-playground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/node-watch-mode-playground#readme"
+}
